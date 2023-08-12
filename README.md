@@ -1,5 +1,3 @@
 # demo
 
-## Subject
-
-### SubSubject
+This is a demo project for git usage
