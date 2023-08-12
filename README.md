@@ -1,4 +1,3 @@
 # demo
 
-This is a demo proje0ct
-for git usage.
+This is a demo project for git usage.
